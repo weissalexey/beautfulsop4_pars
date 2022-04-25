@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ – <note>
+       <to>Вася</to>
+       <from>Света</from>
+       <heading>Напоминание</heading>
+       <body>Позвони мне завтра!</body>
+ 
+       <to>IGOR</to>
+       <from>SVETA</from>
+       <heading>Komm zu mir</heading>
+       <body>ruf mich an</body>
+ 
+       <to>ingor </to>
+       <from>ich bin da</from>
+       <heading>wo bist du</heading>
+       <body>ruf mich an</body>
+   </note>
